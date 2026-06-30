@@ -2,7 +2,7 @@
 
 **Regulatory Affairs workflow skills for MedTech, IVD, SaMD & AI, and Pharma.**
 
-Built on the [AdHoCon Regulatory Prompt Library](https://github.com/rlwadh/regulatory-prompt-library) — 2,250 structurally validated, framework-aware prompts covering FDA, EU MDR, IVDR, ISO 13485, IEC 62304, EU AI Act, and ICH.
+Built on the [ADHOCON Regulatory Prompt Library](https://github.com/rlwadh/regulatory-prompt-library) — 2,250 structurally validated, framework-aware prompts covering FDA, EU MDR, IVDR, ISO 13485, IEC 62304, EU AI Act, and ICH.
 
 ---
 
