@@ -1,0 +1,23 @@
+{
+  "name": "regulatoryflow",
+  "version": "0.1.0",
+  "description": "Regulatory Affairs workflow skills for MedTech (EU MDR/FDA), IVD (IVDR), SaMD & AI (IEC 62304/PCCP/EU AI Act), and Pharma (GMP/ICH). Covers document drafting, gap analysis, audit preparation, risk review, template creation, and executive summaries — all framework-aware and audit-ready.",
+  "author": {
+    "name": "MAIVAN / AdHoCon",
+    "url": "https://adhocon.com"
+  },
+  "homepage": "https://github.com/rlwadh/regulatory-prompt-library",
+  "license": "MIT",
+  "keywords": [
+    "regulatory-affairs",
+    "medtech",
+    "mdr",
+    "fda",
+    "ivdr",
+    "iso-13485",
+    "samd",
+    "pharma",
+    "gmp",
+    "compliance"
+  ]
+}
